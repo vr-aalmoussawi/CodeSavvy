@@ -43,7 +43,7 @@ The clean and compact design ensures quick access to tools like unlocking elemen
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/vr-malaadin/CodeSavvy.git
+
 ```
 
 ### 2. Load the Extension
